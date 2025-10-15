@@ -1,16 +1,48 @@
 <!DOCTYPE html>
-<html lang="PT-br">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/assets/css/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/6c2912f953.js" crossorigin="anonymous"></script>
+    <link rel="icon" href="/assets/img/LogoIcone.png" type="image/x-icon">
     <title>Detalhes.html</title>
 </head>
 <body>
-    
+    <header class="cabeçalho">
+      <div class="logo"><img src="/assets/img/Logo.png" alt=""></div>
+      <nav>
+          <ul><li><a href=""><i class="fa-solid fa-bars"></i></a></li></ul>
+          <ul class="responsivo">
+          <li><a href="/index.html">Home</a></li>
+          <li><a href="">Descrição</a></li>
+          <li><a href=""><i class="fa-etch fa-solid fa-plus"></i></a></li>
+        </ul>
+      </nav>
+    </header>
 
-    <script src="/assets/Js/app.js"></script>
+    <section class="infoLugar">
+        <div class="container text-center">
+            <div class="linha row">
+                <div class="col">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa_yepTgiT3YccaYcSftrMEVeFIv59EEXjdw&s" alt="">
+                    <figcaption>Legenda da imagem aqui</figcaption>
+                </div>
+                <div class="col">
+                    <h2>LUGAR</h2>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat ratione laborum quod debitis saepe, culpa vitae sequi repellendus! Quas quo sed placeat, vitae exercitationem ipsa pariatur nulla reprehenderit vel magni commodi repudiandae eos itaque doloribus laborum distinctio corrupti. Omnis, quia in! Autem saepe praesentium quae cupiditate harum provident ullam aut! <a href="">Leia Mais.</a></p>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <script src="/assets/Js/app.js" type="module"></script>
+    <script>
+        let params = new URLSearchParams(location.search);
+        let id = params.get("id");
+
+    </script>
 </body>
 </html>
