@@ -250,13 +250,13 @@ export const dados = {
           "id": 2,
           "nome": "Monastério",
           "descricao": "Construção monumental no alto das montanhas.",
-          "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ad_Deir_Petra_Jordan_BW_21.JPG"
+          "imagem": "https://rotasdeviagem.com.br/wp-content/uploads/2020/12/mosteiro-petra-jordania.jpg"
         },
         {
           "id": 3,
           "nome": "Siq",
           "descricao": "Cânion estreito que leva à entrada de Petra.",
-          "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Siq_Petra_Jordan_BW_1.JPG"
+          "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Al-Siq%2C_Petra.jpg"
         }
       ]
     },
@@ -281,13 +281,13 @@ export const dados = {
           "id": 2,
           "nome": "Bo-Kaap",
           "descricao": "Bairro histórico com casas coloridas.",
-          "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bo-Kaap_Cape_Town.jpg"
+          "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Boe-Kaap_%28cropped%29.jpg/1200px-Boe-Kaap_%28cropped%29.jpg"
         },
         {
           "id": 3,
           "nome": "Camps Bay",
           "descricao": "Praia famosa com cenário montanhoso.",
-          "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Camps_Bay_Beach_Cape_Town.jpg"
+          "imagem": "https://a0.muscache.com/im/pictures/INTERNAL/INTERNAL-ImageByPlaceId-ChIJiYwyDq1nzB0Rl0tGxEGyoMc-large_background/original/5a0b1bb4-4943-4471-a559-c3eef3e42566.jpeg"
         }
       ]
     },
@@ -312,13 +312,13 @@ export const dados = {
           "id": 2,
           "nome": "Gastown",
           "descricao": "Bairro histórico com arquitetura vitoriana.",
-          "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Gastown_Steam_Clock.jpg"
+          "imagem": "https://cdn.tourbytransit.com/vancouver/images/Gastown-at-dusk.jpg"
         },
         {
           "id": 3,
           "nome": "Capilano Suspension Bridge",
           "descricao": "Ponte suspensa sobre floresta densa.",
-          "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Capilano_Suspension_Bridge.jpg"
+          "imagem": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/7f/bd/a6.jpg"
         }
       ]
     },
@@ -331,7 +331,7 @@ export const dados = {
       "pais": "Grécia",
       "destaque": true,
       "data": "2025-04-14",
-      "imagem_pincipal": "https://www.dicasdeviagem.com/wp-content/uploads/2019/05/telhado-azul-em-santorini.jpg",
+      "imagem_pincipal": "https://www.marriott.com/content/dam/marriott-digital/destinations/destinationheroimages/en_us/photo/assets/pdt-grc-santorini-587986249568062.jpg",
       "atracoes": [
         {
           "id": 1,
@@ -343,13 +343,13 @@ export const dados = {
           "id": 2,
           "nome": "Praia Vermelha",
           "descricao": "Praia com falésias avermelhadas e águas cristalinas.",
-          "imagem": "https://wallpapercave.com/wp/wp2730159.jpg"
+          "imagem": "https://dynamic-media.tacdn.com/media/photo-o/2f/ab/40/ba/caption.jpg?w=700&h=500&s=1"
         },
         {
           "id": 3,
           "nome": "Fira",
           "descricao": "Capital da ilha com lojas, restaurantes e vistas panorâmicas.",
-          "imagem": "https://a.cdn-hotels.com/gdcs/production18/d1838/041ae6b1-0a88-4c22-a648-53a22dd4a006.jpg"
+          "imagem": "https://santorinibesttours.com/sites/default/files/styles/hero_sm/public/2024-06/fira-santorini-greece--opt.jpg?itok=z34hMU_E"
         }
       ]
     },
@@ -362,7 +362,7 @@ export const dados = {
       "pais": "Estados Unidos",
       "destaque": true,
       "data": "2025-04-15",
-      "imagem_pincipal": "https://lovingnewyork.com.br/wp-content/uploads/2018/06/Vale-a-pena-usar-NY-sightseeing-pass-160912163706001.jpg",
+      "imagem_pincipal": "https://portaldasmalas.com.br/blog-portal/wp-content/uploads/2019/02/nova-iorque-skyline.jpg",
       "atracoes": [
         {
           "id": 1,
